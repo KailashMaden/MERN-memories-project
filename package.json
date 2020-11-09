@@ -1,0 +1,19 @@
+{
+  "name": "memories_project",
+  "version": "1.0.0",
+  "description": "Memories project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KailashMaden/MERN-memories-project.git"
+  },
+  "author": "Kailash Maden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KailashMaden/MERN-memories-project/issues"
+  },
+  "homepage": "https://github.com/KailashMaden/MERN-memories-project#readme"
+}
